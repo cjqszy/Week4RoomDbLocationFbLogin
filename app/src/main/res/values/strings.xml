@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week3HwQuizApp</string>
+    <string name="facebook_app_id">Yours code</string>
+    <string name="fb_login_protocol_scheme">Yours code</string>
+</resources>
